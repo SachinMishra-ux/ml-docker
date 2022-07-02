@@ -1,0 +1,7 @@
+[2022-07-02 19:05:31,363] werkzeug - WARNING -  * Debugger is active!
+[2022-07-02 19:05:31,399] werkzeug - INFO -  * Debugger PIN: 127-264-898
+[2022-07-02 19:05:40,649] root - INFO - We are testing logging module
+[2022-07-02 19:05:40,650] werkzeug - INFO - 127.0.0.1 - - [02/Jul/2022 19:05:40] "GET / HTTP/1.1" 200 -
+[2022-07-02 19:05:42,633] werkzeug - INFO - 127.0.0.1 - - [02/Jul/2022 19:05:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-07-02 19:05:44,707] root - INFO - We are testing logging module
+[2022-07-02 19:05:44,708] werkzeug - INFO - 127.0.0.1 - - [02/Jul/2022 19:05:44] "GET / HTTP/1.1" 200 -

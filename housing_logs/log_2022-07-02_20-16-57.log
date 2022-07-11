@@ -1,0 +1,9 @@
+[2022-07-02 20:16:57,732] werkzeug - WARNING -  * Debugger is active!
+[2022-07-02 20:16:57,742] werkzeug - INFO -  * Debugger PIN: 532-213-504
+[2022-07-02 20:16:58,602] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-07-02 23:24:11,222] root - INFO - Error occured in scrip: [E:\Machine Learning\ml-docker\app.py] at line number: [13] error message: [We are testing custom exception]
+[2022-07-02 23:24:11,223] root - INFO - We are testing logging module
+[2022-07-02 23:24:11,264] werkzeug - INFO - 127.0.0.1 - - [02/Jul/2022 23:24:11] "GET / HTTP/1.1" 200 -
+[2022-07-02 23:24:21,148] root - INFO - Error occured in scrip: [E:\Machine Learning\ml-docker\app.py] at line number: [13] error message: [We are testing custom exception]
+[2022-07-02 23:24:21,150] root - INFO - We are testing logging module
+[2022-07-02 23:24:21,157] werkzeug - INFO - 127.0.0.1 - - [02/Jul/2022 23:24:21] "GET / HTTP/1.1" 200 -

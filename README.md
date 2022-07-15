@@ -97,3 +97,9 @@ docker stop <container_id>
 
 ```
 python setup.py install
+
+To intsall ipybkernal
+
+```
+pip install ipykernel
+```
